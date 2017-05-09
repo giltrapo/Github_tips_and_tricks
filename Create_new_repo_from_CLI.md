@@ -5,6 +5,8 @@ Imagine that you have just started a project...
 
 ```bash
 mkdir project_folder
+cd project_folder
+git init
 ```
 
 2. And you have added files to the project.
